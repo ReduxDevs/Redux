@@ -14,7 +14,7 @@ The user by using, redistributing, or showcasing this project acknowledges and a
 FORKING: Adding your own customizations when (optionally) forking this project on GitHub, and distributing those customizations, customizations include changes to the source code and disclude configurations. If we do not like what you have forked and published on GitHub, we may remove it.
 
 REDISTRIBUTION: Distributing the source code of this project, and any source code of this project, and any source code dependent on this project, discluding the loadstring (one line of code that fetches this GitHub project and initializes it, looks something like {
-      "loadstring(game:HttpGet("https://github.com/ReduxDevs/Redux"))()" -- subject to change and is limited only to source files held by the copyright holder.
+      "loadstring(game:HttpGet("https://raw.githubusercontent.com/ReduxDevs/Redux/refs/heads/main/L%26T%20Loader.lua"))()" -- subject to change and is limited only to source files held by the copyright holder.
 }), and any configurations.
 
 ## Terms and conditions:
