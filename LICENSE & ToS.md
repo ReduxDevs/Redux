@@ -33,7 +33,7 @@ Redistribution and use of this project with or without modification, are permitt
 6. If you redistribute, fork or showcase this project, intentionally or unintentionally, you must either be a contributor to this project and possess legitimate evidence of your contribution, which is to be listed in the ‘Authorized Individuals’ section of this license. There is no other way to permit this. The individuals currently authorized are these individuals listed by their GitHub.
 
       [+] Redux - @ReduxDevs on GitHub, redux.dev on Discord.
-      [+] Kael - @kaeltooshifty on Discord.
+      [+] Kael - @Geekinggg on GitHub, @kaeltooshifty on Discord.
       [+] Moonz - @zfbn on Discord.
 
 # By using this product, you accept these terms.
