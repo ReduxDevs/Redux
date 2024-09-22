@@ -1,5 +1,5 @@
-# Redux
-Redux Softworks™️, for Roblox.
+# Redux Softworks™️
+Redux, for Roblox BedWars. More games to come soon.
 
 Welcome to Redux, the ultimate Roblox BedWars script designed to elevate your gaming experience to a whole new level!
 
